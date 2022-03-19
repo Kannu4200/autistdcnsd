@@ -1,7 +1,7 @@
 /**
  * @name NitroByPass
  * @version v1.1 Hotfix
- * @updateURL https://raw.githubusercontent.com/SubCoderHUN/NitroByPass/main/NitroByPass.plugin.js
+ * @updateURL https://github.com/Kannu4200/autistdcnsd/blob/main/naitroshit
  * @invite https://discord.gg/anQpADpqXJ
  */
 
@@ -130,7 +130,7 @@ module.exports = {
     info: {
         name: "NitroByPass",
         authors: [{
-            name: "SubCoder#4911",
+            name: "FREZZY#6286",
         }],
     },
     changelog: [
@@ -8985,13 +8985,13 @@ module.exports = (() => {
         "info": {
             "name": "NitroByPass",
             "authors": [{
-                "name": "SubCoder#4911",
-                "github_username": "SubCoderHUN"
+                "name": "FREZZY#6286",
+                "github_username": "FREZZY"
             }],
             "version": "1.1 Hotfix",
             "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes. You CANNOT upload 100MB files though. :/",
-			"github": "https://github.com/SubCoderHUN/NitroByPass",
-			"github_raw": "https://raw.githubusercontent.com/SubCoderHUN/NitroByPass/main/NitroByPass.plugin.js"
+			"github": "https://github.com/Kannu4200/autistdcnsd",
+			"github_raw": "https://github.com/Kannu4200/autistdcnsd/blob/main/naitroshit"
         },
         "main": "NitroByPass.plugin.js"
     };
